@@ -1,6 +1,6 @@
 # Deep Learning Deforestation Detection
 
-This repository contains all of the resources associated with my final project for the ST456 Deep Learning course at the London School of Economics, which I completed jointly with Rick Holubec and Chayenne Mosk. Our work focuses on identifying and tracking deforestation in the Amazon Rainforest using state-of-the-art deep learning models and multispectral satellite imagery.
+This repository contains the resources associated with my final project for the ST456 Deep Learning course at the London School of Economics, which I completed jointly with Rick Holubec and Chayenne Mosk. Our work focuses on identifying and tracking deforestation in the Amazon Rainforest using state-of-the-art deep learning models and multispectral satellite imagery.
 
 ## Structure
 
