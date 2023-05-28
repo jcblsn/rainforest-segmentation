@@ -8,7 +8,7 @@ The repository is organized as follows:
 
 - `data`: Contains subfolders for different steps in the data processing pipeline.
 - `paper`: Contains our research paper.
-- `scripts`: Contains various scripts for data processing, model creation, and evaluation. Scripts with a `*` character in the file name were written by me; the rest were written by my collaborators.
+- `scripts`: Contains various scripts for data processing, model creation, and evaluation. Scripts named with a `*` character were written by me; the others were written by my collaborators.
 - `sample`: Contains sample results for this document.
 
 ## Findings
@@ -46,7 +46,7 @@ For this project, we used the dataset containing 619 4-band satellite images fro
 
 ## Contributions
 
-As stated above, this project was completed jointly with Rick Holubec and Chayenne Mosk. Scripts with a `*` character in the file name were written by me; other scripts were written by my collaborators. Our paper includes this statement about our individual contributions:
+As stated above, this project was completed jointly with Rick Holubec and Chayenne Mosk. Scripts named with a `*` character were written by me; the others were written by my collaborators. Our paper includes this statement about our individual contributions:
 
 >All authors contributed equally to the research question formulation and data sourcing. All authors contributed to the determination of the analytical framework and methods. All authors completed independent exploratory data analyses. All authors contributed to the evaluation framework used. All authors contributed to the processing and augmentation script used.
 >- Mosk: implemented FCN, SegNet and Attention U-Net
