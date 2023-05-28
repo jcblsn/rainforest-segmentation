@@ -1,0 +1,3 @@
+Since the data downloads are too large to add to version control, I've added them (`ATLANTIC/`, `ATLANTIC FOREST/`) under `data/downloads/` and added `data/downloads/` to the .gitignore file.
+
+Modified data lives in `data/edit/`.
